@@ -1,0 +1,15 @@
+* {
+    font-family: 'monospace', Courier; 
+    padding: 0;
+    margin: 0;
+}
+
+body { 
+    margin:0;
+    font-size: 1em;
+}
+
+
+.formClosed {
+    visibility:hidden;
+}
